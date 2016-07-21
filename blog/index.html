@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Aaditya Uppal
+title: Aaditya's Blog
 ---
-<div class = "blurb">
-  <h1> Aaditya Uppal Blogs here</h1>
-  <p> He hopes to soon start blogging.
-    <em> You can wait here or visit another page.</em>
-  </p>
-</div> <!---./blurb-->
+  <h1>{{ page.title }}</h1>
+  <ul class="posts">
+
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
