@@ -1,5 +1,5 @@
 body {
-    margin: 60px auto;
+    margin: 30px auto;
     width: 70%;
 }
 nav ul, footer ul {
@@ -33,11 +33,17 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
 ul.posts li {
     list-style: none;
+}
+.twittr {
+  text-align: center;
+  margin: 0 auto;
+  width: 600px;
+  height:800px;
 }
