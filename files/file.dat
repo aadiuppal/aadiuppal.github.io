@@ -1,0 +1,42 @@
+Hamirpur,05:00:00, Galore,null,Jalandhar,11:30:00
+Jalandhar,12:20:00, Galore,null,Hamirpur,19:00:00
+Hamirpur,06:00:00, Bhota,null,Chandigrah,12:45:00
+Chandigrah,15:15:00, Galore,null,Hamirpur,21:30:00
+Hamirpur,06:20:00, Galore,null,Chandigrah,13:15:00
+Chandigrah,13:50:00,Hamirpur Bhota,20:00:00
+Awahdevi,06:15:00,Delhi,20:00:00
+Delhi,19:45:00, Bijhari,null,Awahdevi,08:00:00
+Hamirpur,08:25:00, Nadaun,null,Hoshiarpur,12:45:00
+Hoshiarpur,14:30:00, Nadaun,null,Hamirpur,18:30:00
+Sandhol,13:30:00, Galore,null,Delhi,04:30:00
+Delhi,21:40:00, Galore,null,Sandhol,12:00:00
+Hamirpur,10:00:00, Nadaun,null,Ludhiana,17:00:00
+Ludhiana,21:00:00, Una,null,Hamirpur,04:00:00
+Sandhol,06:00:00,Hamirpur,null,Chandigrah,15:45:00
+Chandigrah,21:00:00,Sandhol,07:30:00
+Baijnath,07:00:00,Chandigrah,18:00:00
+Chandigrah,05:15:00,Baijnath,17:00:00
+Hamirpur,11:40:00, Nadaun,null,Ludhiana,18:00:00
+Ludhiana,06:20:00, nadaun,null,Hamirpur,13:00:00
+Hamirpur,12:40:00, Una,null,Haridwar,00:45:00
+Haridwar,18:30:00, Una,null,Hamirpur,05:00:00
+Bagwara,13:30:00,Jalandhar,20:40:00
+Jalandhar,05:55:00,Bagwara,13:00:00
+Hamirpur,15:10:00,Awahdevi,null,Delhi,06:30:00
+Delhi,15:30:00,Una,null,Hamirpur,04:00:00
+Sandhol,05:30:00,Tauni Devi,null,Amritsar,14:30:00
+Amritsar,22:30:00,Taunidevi,null,Sandhol(Khanouli),07:00:00
+Patlander,16:30:00,Sujanpur,null,Delhi,06:00:00
+Delhi,19:00:00,Sujanpur,null,Patlander,08:30:00
+Hamirpur,17:20:00,Dhaneta,null,Delhi,05:00:00
+Delhi,21:15:00,Dhaneta,null,Hamirpur,08:00:00
+Hamirpur,12:20:00,Nadaun,null,Jalandhar,21:00:00
+Jalandhar,22:30:00,Nadaun,null,Hamirpur,12:15:00
+Hamirpur,10:30:00,Nadaun,null,Amritsar,18:15:00
+Amritsar,08:36:00,Nadaun,null,Hamirpur,16:10:00
+Hamirpur,15:00:00,Bhota,null,Chandigrah,21:40:00
+Chandigrah,04:00:00,Bhota,null,Hamirpur,10:30:00
+Chadiyar,16:10:00,Sujanpur,null,Delhi,08:30:00
+Delhi,17:10:00,Sujanpur,null,Chadiyar ,08:00:00
+Awahdevi,18:45:00,Katra,08:50:00
+Katra,17:00:00,Awahdevi,06:00:00
