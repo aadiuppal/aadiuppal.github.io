@@ -1,6 +1,7 @@
 <html>
   <head>
     <title>Aaditya Uppal</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link
       rel="stylesheet"
       href="https://use.fontawesome.com/releases/v5.15.1/css/all.css"
@@ -16,27 +17,66 @@
         margin-right: 20%;
         font-family: "Source Code Pro", monospace;
       }
+      .left-top-div {
+        width: 60%;
+        float: left;
+      }
+      .right-top-div {
+        margin-left: 60%;
+      }
+      img {
+        display: block;
+        margin: auto;
+      }
+      .prof-img {
+        border-radius: 50%;
+        height: 12%;
+        margin-top: 5%;
+      }
+
       @media (max-width: 1000px) {
         .container {
           margin-left: 10%;
           margin-right: 10%;
         }
+
+        .prof-img {
+          height: 10%;
+          margin-top: 15%;
+        }
+      }
+
+      @media (max-width: 500px) {
+        .prof-img {
+          margin-top: 20%;
+        }
       }
     </style>
   </head>
   <div class="container">
+    <div style="width: 100%; overflow: hidden">
+      <div class="left-top-div">
+        <h1>Aaditya Uppal</h1>
+        <p>
+          Experienced Software Engineer
+          <br />
+          Currently @
+          <a href="https://azure.microsoft.com" target="_blank"
+            >Microsoft - Azure</a
+          >
+          <br />
+          <i class="far fa-building"></i> Seattle, WA - USA
+        </p>
+      </div>
+      <div class="right-top-div">
+        <img
+          src="/files/1516834792381.jpeg"
+          class="prof-img"
+        />
+      </div>
+    </div>
+
     <br />
-    <h1>Aaditya Uppal</h1>
-    <p>
-      Experienced Software Engineer
-      <br />
-      Currently @
-      <a href="https://azure.microsoft.com" target="_blank"
-        >Microsoft - Azure</a
-      >
-      <br />
-      <i class="far fa-building"></i> Seattle, WA - USA
-    </p>
     <hr />
 
     <h3>Areas of Focus</h3>
